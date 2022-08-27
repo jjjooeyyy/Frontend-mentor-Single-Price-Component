@@ -15,7 +15,7 @@ Users should be able to:
 ![](/images/Screenshot%202022-08-28%20at%2000.05.15.png)
 
 ## Link
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://price-component-frontend-mentor.netlify.app/)
 
 
 ### Built with
